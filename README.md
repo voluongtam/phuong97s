@@ -1,6 +1,6 @@
 ### 🐧 I'm Thành Phương 🐧 
 
-[<img align="right" alt="phuong97s.com" width="250px" src="https://smartpro.vn/images/courses/learningmap/768x1024/279457integrated-program-in-big-data-and-data-science_mobile.jpg" />][website]
+[<img align="right" alt="phuong97s.com" width="250px" src="https://techinsight.com.vn/wp-content/uploads/2020/08/Untitled-1-18-1068x461.jpg" />][website]
 
 ---
 
