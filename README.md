@@ -10,11 +10,7 @@
 - 🌱 I’m currently learning more every day!
 - 👯 I’m looking to collaborate with other projects
 - 🥅 2021 Goals: Contribute more - Expert Data Specialist
-- ⚡ Fun fact: I love reading book
-
-### Spotify Playing   🎧
-
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
+- ⚡  I love reading book
 
 ### Connect with me:
 
